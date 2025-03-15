@@ -2,36 +2,52 @@
 
 ![Hacker Vibes](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-👋 **Welcome to the dark side of coding...**
+# 👋 Olá, Eu sou o Gabryel Roberto!
 
-I'm **G-SantozZ**, your guide to the underground world of programming and automation. This special repository isn't just a project—it's a gateway to my mind. Here, I work on some of the coolest, most cutting-edge technologies, pushing the boundaries of what's possible.
-
-## 🔥 What I'm Working On
-- 🛠️ **Automation Bots**: Crafting scripts that make the impossible, possible.
-- 🌐 **Web Scrapers**: Digging deep into the hidden data of the internet.
-- 🚀 **Machine Learning**: Teaching machines to think, predict, and dominate.
-
-## 📚 What I'm Learning
-- 🤖 **AI Advancements**: Taking AI to the next level with neural networks and deep learning.
-- 🔒 **Cybersecurity**: Staying one step ahead of the threats. I protect what matters.
-
-## 🤝 Looking to Collaborate On...
-- 💥 **High-impact Projects**: From startups to enterprise solutions, I'm all in.
-- 🌐 **Open-source Innovation**: Let's build something that the world has never seen.
-
-## 👀 Ask Me About...
-- 💡 **Creative Coding**: The art of turning ideas into interactive experiences.
-- 🔧 **System Optimization**: Making things run smoother, faster, and smarter.
-
-## 📫 How to Reach Me
-- 📧 **Email**: gsantozz@darkmail.com
-- 🐦 **Twitter**: @GSantozZ_Cyber
-
-## 🎭 Fun Fact
-- 💀 I started coding at the age of 12 by hacking my school’s computer system... and never looked back.
+💻 Desenvolvedor Full Stack | Python, JavaScript, Automação e Cybersecurity  
+🚀 Especialista em automações de processos e criação de sistemas inteligentes.  
+🌱 Atualmente aprimorando habilidades em Flutter e automação de dados.
 
 ---
 
-🔍 *Stay curious, stay dangerous...*
+## 🚀 Sobre Mim
+- 🔍 Apaixonado por resolver problemas através da programação.
+- ⚙️ Crio soluções automatizadas que otimizam processos e elevam resultados.
+- 🌿 Experiência no setor agrícola, desenvolvendo tecnologias inovadoras.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, JavaScript, TypeScript, C++, HTML5, CSS3
+- **Frameworks:** Django, React, Next.js, Node.js, Express, NestJS
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
+- **Ferramentas:** Docker, GitHub Actions, Postman, VSCode, Git
+
+---
+
+## 📈 Estatísticas GitHub
+![Gabryel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-SantozZ&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-SantozZ&layout=compact&theme=radical)
+
+---
+
+## 🧰 Projetos em Destaque
+- 🚀 [**Automação de Cotação de Defensivos**](https://github.com/G-SantozZ/automacao-cotacao-defensivos)  
+  `Python | Automação | Scraping`  
+  Sistema automatizado para busca de preços de defensivos agrícolas.
+
+- 🌐 [**Portfólio InfinityTech**](https://github.com/G-SantozZ/portfolio-infinitytech)  
+  `HTML | CSS | JavaScript`  
+  Portfólio futurista e interativo para destacar projetos profissionais.
+
+---
+
+## 🌐 Contato
+- [LinkedIn](https://www.linkedin.com/in/gabryel-roberto-02a85a304/)
+- [Instagram](https://www.instagram.com/gabryel.santoss/)
+- [E-mail](mailto:gabryel.santoss@gmail.com)
+
+---
+
 
 ![Code](https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif)
